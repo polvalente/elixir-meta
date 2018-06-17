@@ -1,4 +1,4 @@
-defmodule Feature do
+defmodule FeatureExample do
   import FeatureFlags
 
   deffeature :sandbox, s(a,b) do
